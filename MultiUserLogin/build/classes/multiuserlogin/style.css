@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2022, 9:40:20 PM
+    Author     : TARA
+*/
+.login-bg{
+    -fx-background-color: linear-gradient(to top,#e66465,#9198e5);
+    
+}
+.loginbtn{
+    -fx-background-color: #9013fb;
+    -fx-text-fill: #FFF;
+    -fx-font-size : 15px;
+    -fx-font-weight :700;
+    -fx-background-radius: 8px;
+}
+.lb1-status{
+   -fx-background-color: #c0139f;
+   -fx-text-fill: #FFF;
+   -fx-alignment: CENTER;   
+   -fx-font-size: 16px;
+   -fx-background-radius: 8px;
+}
+.lb1-user{
+   
+   -fx-text-fill: black;
+   -fx-alignment: CENTER;   
+   -fx-font-size: 16px;
+   -fx-font-weight: 600;
+}
+
+.tab-pane{
+    -fx-tab-max-height: 0px;
+}
+
+.tab-pane.tab-header-area{
+    visibility: hidden;
+}
+.account-bg
+{
+    -fx-background-color: linear-gradient(to top,#0082bc,#01d8db);
+
+}
